@@ -2,7 +2,7 @@
 Print hello to the screen three times one "Hello" per line
 
 - thing1
-![Flow Chart]("./assets/flowchart.png")
+![Flow Chart](./assets/flowchart.png)
 
 ## Pseudocode / Implement
 ```Python
